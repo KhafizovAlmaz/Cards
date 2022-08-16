@@ -1,3 +1,3 @@
-# Slider - анимированные карточки
+# Cards - анимированные карточки
 
-Посмотреть - https://khafizovalmaz.github.io/Slider/
+Посмотреть - https://khafizovalmaz.github.io/Cards/
